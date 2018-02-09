@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/Mizux/cmake-cpu_features.svg?branch=master)](https://travis-ci.org/Mizux/cmake-cpu_features)
-[![Build status](https://ci.appveyor.com/api/projects/status/5x4b6s3t7wown5dk/branch/master?svg=true)](https://ci.appveyor.com/project/Mizux/cmake-cpu_features/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/5x4b6s3t7wown5dk/branch/master?svg=true)](https://ci.appveyor.com/project/Mizux/cmake-cpu-features/branch/master)
+
 
 # Introduction
 This is an integration test of Cpu Features in a Modern [CMake](https://cmake.org/) C++ Project using
